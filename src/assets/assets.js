@@ -16,4 +16,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://food-app-kpo7.onrender.com'
+export const url = 'https://santosh-food-app.onrender.com'
